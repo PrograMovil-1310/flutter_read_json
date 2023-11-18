@@ -1,0 +1,33 @@
+[
+    {
+      "titulo": "Flutter 2.0 lanzado",
+      "descripcion": "Google anuncia la versión 2.0 de Flutter, con nuevas características y mejoras de rendimiento.",
+      "imagen": "https://via.placeholder.com/300",
+      "fecha_publicacion": "2023-01-15"
+    },
+    {
+      "titulo": "Nuevos widgets añadidos a Flutter",
+      "descripcion": "La comunidad de Flutter introduce varios widgets nuevos para facilitar el desarrollo de interfaces de usuario.",
+      "imagen": "https://via.placeholder.com/300",
+      "fecha_publicacion": "2023-02-20"
+    },
+    {
+      "titulo": "Curso de Flutter en línea",
+      "descripcion": "¡Aprende Flutter desde cero con nuestro nuevo curso en línea! Acceso a video lecciones, ejercicios y proyectos.",
+      "imagen": "https://via.placeholder.com/300",
+      "fecha_publicacion": "2023-03-10"
+    },
+    {
+      "titulo": "Conferencia de Flutter 2023",
+      "descripcion": "La conferencia anual de Flutter se llevará a cabo este año con emocionantes charlas y talleres de expertos de la industria.",
+      "imagen": "https://via.placeholder.com/300",
+      "fecha_publicacion": "2023-04-05"
+    },
+    {
+      "titulo": "Desarrollo de apps multiplataforma con Flutter",
+      "descripcion": "Descubre cómo Flutter permite el desarrollo eficiente de aplicaciones para iOS y Android desde una única base de código.",
+      "imagen": "https://via.placeholder.com/300",
+      "fecha_publicacion": "2023-05-12"
+    }
+  ]
+  
